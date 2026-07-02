@@ -1,0 +1,6 @@
+{
+  "name": "AgriApp",
+  "description": "A smart farming mobile companion for South African smallholder farmers with AI-powered crop diagnostics, localized planting advice, ZAR calculators, and interactive offline USSD simulation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
